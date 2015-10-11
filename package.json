@@ -1,9 +1,9 @@
 {
-"name":"Lib Test",
-"description":"a testing repository for Viper Package Manager",
-"license":"GPL3",
-"dependencies":{},
-"needs":{
-	"core":">0.1.0"
-}
+	"name":"Lib Test",
+	"description":"a testing repository for Viper Package Manager",
+	"license":"GPL3",
+	"dependencies":{},
+	"needs":{
+		"core":">0.1.0"
+	}
 }
